@@ -23,11 +23,9 @@ FULLSTACK USED: MongoDB, Express, Angular, Node.js
 
 4.) Using Visual Studio Code, open the folder where the 2 repositories located.
 
-5.) In the integrated terminal in VSC, open 'server-api' folder using 'cd server-api', then 
+5.) In the integrated terminal in VSC, open 'server-api' folder using 'cd server-api', then install the dependecies with 'npm i'.
 
-install the dependecies with 'npm i'.
-
-6.) In the separated terminal,  open 'client' folder using "cd client", then install the  dependecies with 'npm i'.
+6.) In the separated terminal,  open 'client' folder using "cd client", then install the dependecies with 'npm i'.
 
 7.) In order to run its database in MongoDB, open another terminal/CLI. Then, type the command 'mongod'.
 
