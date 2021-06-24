@@ -12,6 +12,10 @@ PROJECT 1
 
 FULLSTACK USED: MongoDB, Express, Angular, Node.js
 
+-------------------------------------------------------
+Backend: (https://github.com/rolandsol/server-api)
+Frontend: (https://github.com/rolandsol/client)
+
 
 -------------------------------------------------------
 
