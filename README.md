@@ -1,27 +1,38 @@
-# Client
+ROLAND KENNTH SOLATORIO
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
+3RD YEAR - BSIT
 
-## Development server
+ITE193-A25
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+PROJECT 1
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+FULLSTACK USED: MongoDB, Express, Angular, Node.js
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+-------------------------------------------------------
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How to install this:
 
-## Running end-to-end tests
+1.) Git clone the 2 repositories: server-api(backend) and client(frontend).
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+2.) Create an empty folder where to put the 2 repositories.
 
-## Further help
+3.) Copy the 2 repositories into the folder you created.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+4.) Using Visual Studio Code, open the folder where the 2 repositories located.
+
+5.) In the integrated terminal in VSC, open 'server-api' folder using 'cd server-api', then 
+
+install the dependecies with 'npm i'.
+
+6.) In the separated terminal,  open 'client' folder using "cd client", then install the  dependecies with 'npm i'.
+
+7.) In order to run its database in MongoDB, open another terminal/CLI. Then, type the command 'mongod'.
+
+8.) In the terminal where 'server-api' folder opened, run the server with 'node server.js'.
+
+9.) In the terminal where 'client' folder opened, run the Angular framework with 'ng serve --port 8081'.
+
+10.) Open your browswer, then go to (http://localhost:8081) to use the system.
